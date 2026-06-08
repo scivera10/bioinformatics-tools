@@ -76,4 +76,4 @@ All scripts are written in **R**. Package requirements are listed in each tool's
 
 **Sergio Civera Arroyo**  
 Biologist \& Bioinformatician
-
+🔗 [LinkedIn](www.linkedin.com/in/sergio-civera-arroyo-28579531b)
